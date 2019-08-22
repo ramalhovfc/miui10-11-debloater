@@ -18,7 +18,6 @@ adb shell pm uninstall -k --user 0 com.miui.providers.weather
 adb shell pm uninstall -k --user 0 com.miui.weather2
 adb shell pm uninstall -k --user 0 com.android.browser
 adb shell pm uninstall -k --user 0 com.android.mms
-adb shell pm uninstall -k --user 0 com.android.deskclock
 adb shell pm uninstall -k --user 0 com.xiaomi.midrop
 adb shell pm uninstall -k --user 0 com.miui.bugreport
 adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer
