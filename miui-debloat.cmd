@@ -41,3 +41,5 @@ adb shell pm uninstall -k --user 0 com.miui.touchassistant
 adb shell pm uninstall -k --user 0 com.miui.backup
 adb shell pm uninstall -k --user 0 com.miui.hybrid
 adb shell pm uninstall -k --user 0 com.miui.translationservice
+adb shell pm uninstall -k --user 0 com.xiaomi.discover
+adb shell pm uninstall -k --user 0 com.miui.translation.kingsoft
