@@ -1,7 +1,6 @@
 adb devices
 adb shell pm uninstall -k --user 0 com.miui.notes
 adb shell pm uninstall -k --user 0 com.miui.analytics
-adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.videos
 adb shell pm uninstall -k --user 0 com.miui.gallery
 adb shell pm uninstall -k --user 0 com.mipay.wallet.id
