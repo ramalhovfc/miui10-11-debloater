@@ -42,3 +42,9 @@ adb shell pm uninstall -k --user 0 com.miui.hybrid
 adb shell pm uninstall -k --user 0 com.miui.translationservice
 adb shell pm uninstall -k --user 0 com.xiaomi.discover
 adb shell pm uninstall -k --user 0 com.miui.translation.kingsoft
+adb shell pm uninstall -k --user 0 com.facebook.system
+adb shell pm uninstall -k --user 0 com.facebook.services
+adb shell pm uninstall -k --user 0 com.facebook.katana
+adb shell pm uninstall -k --user 0 com.facebook.appmanager
+adb shell pm uninstall -k --user 0 com.miui.android.fashiongallery
+adb shell pm uninstall -k --user 0 com.mi.android.globalminusscreen
