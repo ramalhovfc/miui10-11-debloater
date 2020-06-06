@@ -49,3 +49,4 @@ adb shell pm uninstall -k --user 0 com.facebook.appmanager
 adb shell pm uninstall -k --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall -k --user 0 com.mi.android.globalminusscreen
 adb shell pm uninstall -k --user 0 com.google.android.apps.wellbeing
+adb shell pm uninstall -k --user 0 com.mi.android.globalpersonalassistant
