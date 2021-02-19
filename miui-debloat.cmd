@@ -50,3 +50,9 @@ adb shell pm uninstall -k --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall -k --user 0 com.mi.android.globalminusscreen
 adb shell pm uninstall -k --user 0 com.google.android.apps.wellbeing
 adb shell pm uninstall -k --user 0 com.mi.android.globalpersonalassistant
+adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
+adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall -k --user 0 com.xiaomi.mi_connect_service
+adb shell pm uninstall -k --user 0 com.xiaomi.miplay_client
+adb shell pm uninstall -k --user 0 com.miui.miservice
